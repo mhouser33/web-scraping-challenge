@@ -196,3 +196,7 @@ mars_dictionary = [
 ]
 mars_dictionary
 browser.quit()
+
+
+if __name__ == "__main__":
+    print(scrape_all())
